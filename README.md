@@ -6,10 +6,10 @@
 Proyecto para tarea de Desarrollo de Interfacez
 
 ## Contenido de la publicación
-- **desarrollo/**: Directorio que incluye el directorio del proyecto de la práctica.
-- **ejecutable/**: Directorio que incluye el ejecutable de la aplicación.
-- **documentación técnica/**: Directorio que incluye el javadoc de la aplicación.
-- **documentos/**: Directorio que incluye el documento sobre usabilidad.
+- **desarrollo**: Directorio que incluye el directorio del proyecto de la práctica.
+- **ejecutable**: Directorio que incluye el ejecutable de la aplicación.
+- **documentación técnica**: Directorio que incluye el javadoc de la aplicación.
+- **documentos**: Directorio que incluye el documento sobre usabilidad.
 
 ## Despliegue
 - Tener instalado Java en la máquina.
