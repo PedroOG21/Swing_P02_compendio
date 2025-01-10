@@ -25,5 +25,5 @@ Desarrollado por Pedro Ortiz Galera
 Este proyecto esta bajo licencia.
 
 ## Recursos Adicionales
-
+https://github.com/PedroOG21/Swing_P02_compendio
 ...
