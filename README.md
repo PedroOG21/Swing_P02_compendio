@@ -22,7 +22,7 @@ java -jar swing_c_p02_OrtizGaleraPedro.jar
 Desarrollado por Pedro Ortiz Galera
 
 ## Licencia
-Este proyecto esta bajo licencia.
+Este proyecto esta bajo licencia. AFL-3.0
 
 ## Recursos Adicionales
 https://github.com/PedroOG21/Swing_P02_compendio
