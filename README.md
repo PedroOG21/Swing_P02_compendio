@@ -1,6 +1,4 @@
-# Swing_P02_compendio
-
-# Hotel La Empresa
+# Swing_P02_compendio - Hotel La Empresa
 
 ## Descripción del proyecto
 Proyecto para tarea de Desarrollo de Interfacez
@@ -22,7 +20,7 @@ java -jar swing_c_p02_OrtizGaleraPedro.jar
 Desarrollado por Pedro Ortiz Galera
 
 ## Licencia
-Este proyecto esta bajo licencia. AFL-3.0
+Este proyecto esta bajo licencia.
 
 ## Recursos Adicionales
 https://github.com/PedroOG21/Swing_P02_compendio
